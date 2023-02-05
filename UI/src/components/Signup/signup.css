@@ -1,0 +1,24 @@
+.heading{
+    color: white;
+}
+
+.LoginForm{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 450px;
+    width: 400px;
+    background-color: #6f42c1;
+    color: white;
+    border-radius: 10px;
+}
+.para{
+    color: aliceblue;
+    margin-top: 15px;
+}
+
+.para a{
+    color: red;
+    font-weight: bold
+}
